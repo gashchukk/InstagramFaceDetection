@@ -1,4 +1,4 @@
-# Instagram Face Deection Algoritm
+# Instagram Face Detection Algorithm
 
 ## Usage
 
