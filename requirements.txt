@@ -1,0 +1,7 @@
+instaloader
+opencv
+numpy
+matplotlib
+scipy
+networkx
+torch
